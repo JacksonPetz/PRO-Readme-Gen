@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Pro README Gen Test desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Pro-README-Gen"
+  },
+  "keywords": [
+    "GitHub"
+  ],
+  "author": "Jackson Petz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
