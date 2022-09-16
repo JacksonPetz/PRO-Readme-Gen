@@ -15,7 +15,7 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![Jackson Petz README Generator](./src/Sequence 01.mp4)
+![Jackson Petz Pro-READMe-Generator](./src/Sequence 01.mp4)
   
   
 ## User Story
